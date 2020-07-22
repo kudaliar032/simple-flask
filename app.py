@@ -10,7 +10,7 @@ def hello():
 
 @app.route('/other')
 def other_page():
-  return 'Other flask page!'
+  return 'Other flask page oh!'
 
 
 if __name__ == '__main__':
